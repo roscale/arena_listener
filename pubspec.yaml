@@ -1,6 +1,6 @@
 name: arena_listener
 description: A Listener that fights in gesture arenas.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/roscale/arena_listener
 issue_tracker: https://github.com/roscale/arena_listener/issues
 
